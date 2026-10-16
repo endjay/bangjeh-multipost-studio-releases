@@ -4,6 +4,8 @@ Publikasikan satu video ke TikTok, YouTube Shorts, Instagram Reels, Facebook, Pi
 
 **➡ [Unduh versi terbaru / Download the latest version](../../releases/latest)**
 
+**📘 [Panduan penggunaan (PDF, Bahasa Indonesia)](../../releases/latest/download/Panduan-Bangjeh-Multipost-Studio.pdf)**: langkah demi langkah dengan gambar.
+
 ## Bahasa Indonesia
 
 ### Sebelum memasang
